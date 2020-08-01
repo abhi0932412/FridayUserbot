@@ -35,7 +35,7 @@ async def _(event):
 
     animation_chars = [
         
-            "**Heroku Connecting To Latest Github Build (StarkGang/FridayUserbot)**",
+           "**Heroku Connecting To Latest Github Build (ultron78/ULTRON_USERBOT)**",
             "**Build started by user** **{DEFAULTUSER}**",
             "**Deploy** `535a74f0` **by user** **{DEFAULTUSER}**",
             "**Restarting Heroku Server...**",
@@ -44,9 +44,10 @@ async def _(event):
             "**Process exited with** `status 143`",
             "**Starting process with command** `python3 -m stdborg`",
             "**State changed from starting to up**",
-            "__INFO:Friday:Logged in as 557667062__",
-            "__INFO:Friday:Successfully loaded all plugins__",
+            "__INFO:ULTRON:Logged in as 557667062__",
+            "__INFO:ULTRON:Successfully loaded all plugins__",
             "**Build Succeeded**"
+
 
  ]
 
